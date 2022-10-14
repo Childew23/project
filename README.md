@@ -1,2 +1,2 @@
 # project
-Projet PHP avec Samira, Samia, William et Dylan
+Projet framework avec Samira, Samia, William et Dylan
